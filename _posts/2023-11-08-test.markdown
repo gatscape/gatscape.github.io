@@ -1,0 +1,6 @@
+# Test
+
+This is my new blog.
+
+![My helpful screenshot](/assets/house.png)
+
