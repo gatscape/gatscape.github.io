@@ -1,6 +1,6 @@
 ---
-title: Tags
-tag: epistemology
+title: Archimedes
+tags: [epistemology]
 ---
 # Test
 
