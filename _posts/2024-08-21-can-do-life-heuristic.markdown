@@ -2,8 +2,6 @@
 title: The “Can I Do This For Life“ Heuristic
 tags: [epistemology]
 ---
-# The “Can I Do This For Life“ Heuristic
-
 Advice is given: supplement creatine for loading benefits & quick muscle gains; take retinol for anti-aging results; use X programming language; protein supplements help you look big (even though they might help kill you).
 
 There is no solid evidence these treatments won't harm you long term. Perhaps the study measures lifted weight, but not hundreds of other variables like estrogen levels (I am being hypothetical here) leading to long term health impacts. In light of life long studies with large sample sizes you are taking silent risks; especially when the gains are small (looking slightly bigger for your upcoming trip to Uzbekistan). 
