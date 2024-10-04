@@ -2,7 +2,7 @@
 title: The “Can I Do This For Life“ Heuristic
 tags: [epistemology]
 ---
-You're lifting a weight. The personal trainer eyeing you up as a potential client stops you midlift: your form is awful, supplement creatine for loading benefits and quick muscle gains, do this complicated exercise with complicated machinery. 
+You're lifting a weight. The personal trainer eyeing you up as a potential client stops you midlift: "your form is awful", "supplement creatine for loading benefits and quick muscle gains", "do this complicated exercise with complicated machinery". 
 
 A skin influencer on your feed: take retinol for anti-aging results. 
 
