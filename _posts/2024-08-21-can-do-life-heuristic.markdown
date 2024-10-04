@@ -8,7 +8,7 @@ A skin influencer on your feed: take retinol for anti-aging results.
 
 You're browsing Reddit r/programming: use X programming language, oh and always write tests!
 
-There is no compelling evidence this kind of advice won’t harm you in the long term. Creatine might be "heavily researched", but there are no long term studies looking at biological variables deterimental to health. Perhaps the study measures lifted weight, but not variables like blood pressure, which shoots up when you take it, leading to long-term health impacts. In light of long term studies, and even then, you are taking silent risks, and all small gains (looking slightly bigger for your upcoming trip to Uzbekistan).
+There is no compelling evidence this kind of advice won’t harm you in the long term. Creatine might be "heavily researched", but there are no long term studies looking at biological variables deterimental to health. Perhaps the study measures lifted weight, but not variables like blood pressure, which shoots up when you take it, leading to long-term health impacts. You are taking invisible, silent risks, and for small gains (looking slightly bigger for your upcoming trip to Constantinople).
 
 This kind of advice does not meet the “would this make sense for the rest of my life?” test.
 
