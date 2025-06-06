@@ -2,13 +2,15 @@
 title: The “Can I Do This For Life“ Heuristic
 tags: [epistemology]
 ---
+Advice that is not time-tested is wrong as a rule. What is new usually fails. Let me explain.
+
 You're lifting a weight. The personal trainer eyeing you up as a potential client stops you midlift: "your form is awful", "supplement creatine for loading benefits and quick muscle gains", "do this complicated exercise with complicated machinery". 
 
 A skin influencer on your feed: take retinol for anti-aging results. 
 
 You're browsing Reddit r/programming: use X programming language, oh and always write tests!
 
-There is no compelling evidence this kind of advice won’t harm you in the long term. Creatine might be "heavily researched", but there are no long term studies looking at biological variables deterimental to health. Perhaps the study measures lifted weight, but not variables like blood pressure, which shoots up when you take it, leading to long-term health impacts. You are taking invisible, silent risks, and for small gains (looking slightly bigger for your upcoming trip to Constantinople).
+The above examples are a few of the unsolicitied pieces of advice you'll get in life. Creatine might be "heavily researched", but there are no long term studies looking at biological variables deterimental to health. Perhaps the study measures lifted weight, but not variables like blood pressure, which shoots up when you take it, leading to long-term health impacts. You are taking invisible, silent risks, and for small gains (looking slightly bigger for your upcoming trip to Constantinople).
 
 This kind of advice does not meet the “would this make sense for the rest of my life?” test.
 
